@@ -7,8 +7,10 @@ ibm-platform-navigator-instance:
       license:
         accept: true
         //license: L-RJON-BUVMQX
-        license: L-RJON-C7QG3S
+        //license: L-RJON-C7QG3S
+        license: L-RJON-CJR2RX
       mqDashboard: true
       //version: 2020.4.1-eus
-      version: "2021.4.1"
+      //version: "2021.4.1"
+      version: "2022.4.1"
       replicas: 2   
